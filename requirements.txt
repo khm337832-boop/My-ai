@@ -1,3 +1,4 @@
 flask
-google-generativeai
+g4f
 gunicorn
+
